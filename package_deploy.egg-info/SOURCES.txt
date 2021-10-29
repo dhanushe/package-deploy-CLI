@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+package-deploy/__init__.py
+package-deploy/__main__.py
+package_deploy.egg-info/PKG-INFO
+package_deploy.egg-info/SOURCES.txt
+package_deploy.egg-info/dependency_links.txt
+package_deploy.egg-info/entry_points.txt
+package_deploy.egg-info/requires.txt
+package_deploy.egg-info/top_level.txt

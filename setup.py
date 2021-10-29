@@ -22,7 +22,7 @@ setup(
     python_requires='>=3.0',
     entry_points='''
         [console_scripts]
-        cver=cver.__main__:main
+        pkgdeploy=pkgdeploy.__main__:main
     ''',
     author="Dhanush Eashwar",
     keyword="package, deploy, pypi, publish, make-package",

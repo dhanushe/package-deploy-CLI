@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        pkgdeploy=pkgdeploy.__main__:main
+    

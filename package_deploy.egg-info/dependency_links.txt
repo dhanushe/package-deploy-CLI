@@ -1,0 +1,35 @@
+autopep8==1.6.0
+bleach==4.1.0
+certifi==2021.10.8
+charset-normalizer==2.0.7
+colorama==0.4.4
+cver==1.0.0
+docutils==0.18
+future @ file:///Users/dhanusheashwar/Library/Caches/pypoetry/artifacts/d9/62/dc/809bb3ddfe360ddc60ebb287ad6b0eaf71aef98937f0ea0c466d44aa19/future-0.18.2.tar.gz
+idna==3.3
+importlib-metadata==4.8.1
+keyring==23.2.1
+lxml==4.6.3
+packaging==21.0
+pkginfo==1.7.1
+prompt-toolkit==1.0.14
+pycodestyle==2.8.0
+Pygments==2.10.0
+PyInquirer==1.0.3
+pyparsing @ file:///Users/dhanusheashwar/Library/Caches/pypoetry/artifacts/d2/3d/5b/d62662c00d433c83311374f2a7a5ea701c73ac49cc9bb3740fab994605/pyparsing-3.0.3-py3-none-any.whl
+readme-renderer==30.0
+regex==2021.10.23
+requests==2.26.0
+requests-toolbelt==0.9.1
+rfc3986==1.5.0
+six==1.16.0
+soupsieve==2.2.1
+termcolor==1.1.0
+toml==0.10.2
+tqdm==4.62.3
+twine==3.4.2
+urllib3==1.26.7
+wcwidth==0.2.5
+webencodings==0.5.1
+zipp==3.6.0
+
