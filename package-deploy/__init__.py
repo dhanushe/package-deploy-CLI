@@ -123,7 +123,7 @@ def main():
     print(colored('Welcome to package-deploy. Create Your Python Package Files', 'green'))
     print('This will create files in the current directory you are in')
     answers = prompt(questions, style=style)
-    pprint(answers)
+    #pprint(answers)
 
     # Create the folder
     if answers['p-name'] is not None and len(answers['p-name']) > 0:
@@ -250,6 +250,7 @@ def main():
         file.close()
     except:
         print(colored("setup.py could not be edited. Add all the information manually.", 'red'))
+
 
 
 if __name__ == '__main__':
