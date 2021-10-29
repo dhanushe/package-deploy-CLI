@@ -14,6 +14,7 @@ future = "^0.18.2"
 wcwidth = "^0.2.5"
 six = "^1.16.0"
 Pygments = "^2.10.0"
+twine = "^3.4.2"
 
 [tool.poetry.dev-dependencies]
 
@@ -21,7 +22,7 @@ Pygments = "^2.10.0"
 makepkg = '__init__:main'
 
 packages = [
-    { include = "PACKAGE-DEPLOY" }
+    { include = "package-deploy" }
 ]
 
 [build-system]
