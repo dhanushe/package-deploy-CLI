@@ -1,6 +1,7 @@
 # package-deploy
 
 An effective CLI tool to simplify the process of creating, updating and distributing a python package
+This project is currently not published, but will be in near future
 
 ## Using Pip
 
